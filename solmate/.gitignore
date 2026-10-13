@@ -1,0 +1,9 @@
+/cache
+/node_modules
+/out
+
+# Coverage files
+crytic-export
+echidna
+medusa
+.recon

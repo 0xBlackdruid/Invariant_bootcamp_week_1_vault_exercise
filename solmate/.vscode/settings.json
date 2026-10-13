@@ -1,0 +1,13 @@
+{
+  "solidity.packageDefaultDependenciesContractsDirectory": "src",
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.compileUsingRemoteVersion": "v0.8.15",
+  "search.exclude": { "lib": true },
+  "files.associations": {
+    ".gas-snapshot": "julia"
+  },
+  "recon.defaultFuzzer": "Echidna",
+  "recon.echidna.mode": "assertion",
+  "recon.echidna.testLimit": 10000000,
+  "recon.reservedCores": 4
+}

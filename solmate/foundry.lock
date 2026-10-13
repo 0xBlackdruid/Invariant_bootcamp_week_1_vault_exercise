@@ -1,0 +1,11 @@
+{
+  "lib/chimera": {
+    "tag": {
+      "name": "0.1.4",
+      "rev": "0d37c2b8998756680e76d859c343e01c4fc1e006"
+    }
+  },
+  "lib/ds-test": {
+    "rev": "e282159d5170298eb2455a6c05280ab5a73a4ef0"
+  }
+}
